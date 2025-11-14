@@ -17,10 +17,10 @@ class MainApp extends StatelessWidget {
               Text('Hello World!'),
               Text('Iam Akrem Bouraoui'),
               Container(
-                margin: EdgeInsets.all(20),
-                padding: EdgeInsets.all(16),
+                margin: EdgeInsets.all(40),
+                padding: EdgeInsets.all(30),
                 decoration: BoxDecoration(
-                  color: Colors.redAccent,
+                  color: Colors.purpleAccent,
                   borderRadius: BorderRadius.circular(25),
                 ),
                 child: Text(
@@ -30,7 +30,7 @@ class MainApp extends StatelessWidget {
               ),
               Text('This is my first application'),
               Stack(
-                alignment: Alignment.topRight,
+                alignment: Alignment.bottomLeft,
                 children: [
                   Container(width: 200,height: 200,color:Colors.blue[100]),
                   Icon(Icons.star, size: 100, color: Colors.amber),
