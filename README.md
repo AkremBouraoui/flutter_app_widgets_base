@@ -20,11 +20,13 @@ Ce projet a été réalisé dans le cadre d’un TP pour apprendre les widgets d
 
 <img width="1366" height="729" alt="étape01" src="https://github.com/user-attachments/assets/2f39c386-eeee-4f29-9b7c-49f3df2cd8fe" />
 
+-----------------------------------------
    
 ## Étape 2 : Ajouter une colonne avec un texte
 
 <img width="1366" height="768" alt="étape02" src="https://github.com/user-attachments/assets/2d37a652-2ade-4927-a2d6-9d0751b9a051" />
 
+-----------------------------------------
 
 ## Étape 3 : Ajouter un Container stylisé
 
@@ -32,6 +34,7 @@ Ce projet a été réalisé dans le cadre d’un TP pour apprendre les widgets d
 
 <img width="1366" height="767" alt="étape03 - 2" src="https://github.com/user-attachments/assets/284ef018-43b1-413a-aec3-25667dfae25e" />
 
+-----------------------------------------
 
 ## Étape 4 : Découvrir le Stack
 
@@ -39,6 +42,7 @@ Ce projet a été réalisé dans le cadre d’un TP pour apprendre les widgets d
 
 <img width="1366" height="768" alt="étape04 - 2" src="https://github.com/user-attachments/assets/3abc9aa5-4822-486b-8550-0c8600d7c677" />
 
+-----------------------------------------
 
 ## Étape 5 : Ajouter une Row avec des icônes
 
@@ -46,6 +50,7 @@ Ce projet a été réalisé dans le cadre d’un TP pour apprendre les widgets d
 
 <img width="1366" height="768" alt="étape05 -1" src="https://github.com/user-attachments/assets/89a16428-70b8-418e-9ffe-b7c9cad5b6e6" />
 
+-----------------------------------------
 
 ## Étape 6 : Ajouter une deuxième colonne et modifier les tailles de texte
 
@@ -53,11 +58,13 @@ Ce projet a été réalisé dans le cadre d’un TP pour apprendre les widgets d
 
 <img width="1366" height="768" alt="étape06 - 2" src="https://github.com/user-attachments/assets/3925a1dc-0f91-43c7-94b2-c315fb3a385a" />
 
+-----------------------------------------
 
 ## Étape 7 : Personnaliser l’interface
 
 <img width="1366" height="768" alt="étape07" src="https://github.com/user-attachments/assets/25766b06-d480-4673-b52d-d9679eb9c7a1" />
 
+-----------------------------------------
 
 ## Finalisation du projet
 
